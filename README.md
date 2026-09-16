@@ -29,17 +29,34 @@ Banks generate a large amount of customer and transaction data. It can be diffic
 The goal of this dashboard is to convert raw banking data into easy-to-understand visual insights that help analyze customers, transactions, and risk-related patterns.
 
 **• Walkthrough of Key Visuals**
-**Executive Summary** – Shows important KPIs and an overall view of banking activity.
-**Customer Analysis** – Analyzes customers based on gender, age, state, occupation, income, and customer segment.
-**Transaction Analysis** – Shows transaction volume, transaction amounts, transaction types, and trends over time.
-**Risk Analysis** – Helps analyze risk scores and risk-related transaction patterns.
-**Slicers** – Allow users to filter the dashboard by different customer and transaction categories.
+* **Executive Summary** – Shows important KPIs and an overall view of banking activity.
+* **Customer Analysis** – Analyzes customers based on gender, age, state, occupation, income, and customer segment.
+* **Transaction Analysis** – Shows transaction volume, transaction amounts, transaction types, and trends over time.
+* **Risk Analysis** – Helps analyze risk scores and risk-related transaction patterns.
+* **Slicers** – Allow users to filter the dashboard by different customer and transaction categories.
 
 **• Business Impact & Insights**
-Helps understand customer demographics and segments.
-Identifies important transaction patterns and trends.
-Helps compare customer and transaction activity across different states and categories.
-Provides a clear view of risk-related patterns.
-Supports data-driven decision-making in banking analysis.
+* Helps understand customer demographics and segments.
+* Identifies important transaction patterns and trends.
+* Helps compare customer and transaction activity across different states and categories.
+* Provides a clear view of risk-related patterns.
+* Supports data-driven decision-making in banking analysis.
 
 **Screenshots**
+
+**Executive Summary**
+https://github.com/Divya1247/Banking-Transaction-Analysis/blob/main/Executive%20Summary.png
+
+**Customer Transaction Analysis**
+https://github.com/Divya1247/Banking-Transaction-Analysis/blob/main/Customer%20%26%20transaction%20analysis.png
+
+**Customer Analysis**
+https://github.com/Divya1247/Banking-Transaction-Analysis/blob/main/Customer%20Analysis.png
+
+**Fraud & Risk analysis**
+https://github.com/Divya1247/Banking-Transaction-Analysis/blob/main/Fraud%20%26%20Risk%20Analysis.png
+
+**Transaction analysis**
+https://github.com/Divya1247/Banking-Transaction-Analysis/blob/main/Transaction%20analysis.png
+
+
