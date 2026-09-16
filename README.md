@@ -7,12 +7,12 @@ An interactive Power BI dashboard designed to analyze customer information, tran
 The Banking Customer & Transaction Analysis Dashboard provides an interactive view of customer demographics and banking transactions. It helps users understand customer behavior, transaction trends, and risk-related patterns through simple and meaningful visualizations.
 
 **Tech Stack**
-Power BI – Dashboard creation and data visualization
-Power Query – Data cleaning and transformation
-DAX – Creating calculations and KPIs
-SQL – Data querying and analysis
-Excel – Data preparation and analysis
-Python – Data analysis and exploration
+* Power BI – Dashboard creation and data visualization
+* Power Query – Data cleaning and transformation
+* DAX – Creating calculations and KPIs
+* SQL – Data querying and analysis
+* Excel – Data preparation and analysis
+* Python – Data analysis and exploration
 
 **Data Source**
 The data consists of 5,000 customer records and 50K+ financial transactions.
